@@ -11,9 +11,9 @@ Original file is located at
 
 # Install pytorch
 #https://pytorch.org/get-started/locally/
-!pip3 install torch torchvision torchaudio
+#!pip3 install torch torchvision torchaudio
 # Install easyocr
-!pip install easyocr
+#!pip install easyocr
 
 import easyocr
 import cv2
